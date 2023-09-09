@@ -1,16 +1,12 @@
 # Secrets
 Secrets is a web application that allows users to share and discover secrets anonymously. It provides authentication using both local registration and Google OAuth 2.0. Users can submit secrets and view secrets shared by others.
 
-![Secret Keeper Screenshot](./screenshot.png)
-
 ## Table of Contents
 - [Features](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
